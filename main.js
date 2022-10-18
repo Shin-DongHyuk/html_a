@@ -1,5 +1,5 @@
 function onGBB(){
-    document.writeln("hi");
+
 
     window.open("sub1.html");
 
